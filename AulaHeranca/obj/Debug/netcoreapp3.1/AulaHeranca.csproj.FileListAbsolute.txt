@@ -1,0 +1,13 @@
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\bin\Debug\netcoreapp3.1\AulaHeranca.exe
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\bin\Debug\netcoreapp3.1\AulaHeranca.deps.json
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\bin\Debug\netcoreapp3.1\AulaHeranca.runtimeconfig.json
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\bin\Debug\netcoreapp3.1\AulaHeranca.runtimeconfig.dev.json
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\bin\Debug\netcoreapp3.1\AulaHeranca.dll
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\bin\Debug\netcoreapp3.1\AulaHeranca.pdb
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\obj\Debug\netcoreapp3.1\AulaHeranca.csprojAssemblyReference.cache
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\obj\Debug\netcoreapp3.1\AulaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\obj\Debug\netcoreapp3.1\AulaHeranca.AssemblyInfoInputs.cache
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\obj\Debug\netcoreapp3.1\AulaHeranca.AssemblyInfo.cs
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\obj\Debug\netcoreapp3.1\AulaHeranca.dll
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\obj\Debug\netcoreapp3.1\AulaHeranca.pdb
+C:\Users\dejai_000\Desktop\Trabalhos BackEnd\AulaHeranca\obj\Debug\netcoreapp3.1\AulaHeranca.genruntimeconfig.cache
