@@ -1,0 +1,26 @@
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.exe
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.deps.json
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.runtimeconfig.json
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.runtimeconfig.dev.json
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.dll
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.pdb
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.csprojAssemblyReference.cache
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.csproj.CoreCompileInputs.cache
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.AssemblyInfoInputs.cache
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.AssemblyInfo.cs
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.dll
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.pdb
+C:\Users\dejai_000\Desktop\Exercício 1 POO correção\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.genruntimeconfig.cache
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.exe
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.deps.json
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.runtimeconfig.json
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.runtimeconfig.dev.json
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.dll
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\bin\Debug\netcoreapp3.1\Exercício 1 POO correção.pdb
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.csprojAssemblyReference.cache
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.csproj.CoreCompileInputs.cache
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.AssemblyInfoInputs.cache
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.AssemblyInfo.cs
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.dll
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.pdb
+C:\Users\dejai_000\Desktop\Kaua Trabalhos\Backend\Exercício 1 POO (CORRETO)\obj\Debug\netcoreapp3.1\Exercício 1 POO correção.genruntimeconfig.cache
